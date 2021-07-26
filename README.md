@@ -1,0 +1,2 @@
+# partyRedirect
+index.html
